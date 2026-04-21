@@ -1,7 +1,7 @@
 # Gaming RAYAN
 
 Ce projet est une page web de type galerie gaming présentant plusieurs jeux vidéo auxquels j’ai joué.  
-Il a été réalisé en HTML, CSS et JavaScript.
+Il a été réalisé en HTML et CSS.
 
 ---
 
