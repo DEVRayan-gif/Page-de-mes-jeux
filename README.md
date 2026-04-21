@@ -31,8 +31,7 @@ Le site contient une page principale :
 ## Technologies utilisées
 
 - HTML5  
-- CSS3  
-- JavaScript  
+- CSS3   
 
 ---
 
